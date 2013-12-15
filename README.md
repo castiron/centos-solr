@@ -11,3 +11,4 @@ docker run username/imagename
 ```
 docker pull keisatou/centos-solr
 ```
+https://index.docker.io/u/keisatou/centos-solr/
